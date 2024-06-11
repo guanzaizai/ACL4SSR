@@ -27,6 +27,9 @@ DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
+# 自定义****************
+MATCH,PATH,/space/api/docx/resources/copy_out
+
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn
 DOMAIN-SUFFIX,100peng.com
